@@ -1,0 +1,21 @@
+# This is the default format. 
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:categories/:year/:month/:day/:title 
+auto: true
+pygments: true
+var:
+  archive_path: /archive.html
+  categories_path : /categories.html
+  tags_path : /tags.html
+  rss_path: /atom.xml
+
+production_url : http://markuplanguages.courses.thiruvathukal.com
+title : COMP 336-436
+
+author :
+  name : George K. Thiruvathukal
+  email : gkt@cs.luc.edu
+  github : gkthiruvathukal
+  twitter : @gkthiruvathukal
+
+exclude: .rbenv-version
