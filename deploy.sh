@@ -1,4 +1,5 @@
 #!/bin/bash
 
 rm -rf _site/
-jekyll build && rsync -av --delete _site/ thiruvathukal.com:./sites/markuplanguages/
+
+jekyll build && rsync -avz ./_site/ course@courseclouds.com:./sites/markup.cs.courseclouds.com/
