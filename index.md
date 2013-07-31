@@ -5,6 +5,8 @@ title: Home
 
 **This site is being updated for Fall 2013, taught by Matt Bone**.
 
+Testing the deploy script...
+
 Welcome to COMP 336/436: Markup Languages at Loyola University Chicago
 Beginning this term, I am moving to plaintext authoring systems for course materials. This site will be maintained until the transition is completed. To get the complete syllabus, see the attached file on this page.
 
