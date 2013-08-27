@@ -1,24 +1,3 @@
----
-layout: page
-title: Lectures
-#group: navigation
----
-
-This calendar does not include items that are already on the
-[university calendar](http://www.luc.edu/academics/schedules/spring/academic_calendar.shtml).
-Please check this calendar and sakai for any other important dates (e.g. drop
-dates, quiz dates, presentation dates etc.)
-
-## 17 January 2012
-
-- Essential HTML/CSS, <http://www.brics.dk/ixwt/html.pdf>
-
-## 24 January 2012
-
-- Introduction to XML <http://www.brics.dk/ixwt/xml.pdf>
-- Distributed Version Control Tools, <http://works.bepress.com/gkthiruvathukal/29/>
-- W3C Standard, <http://www.w3.org/TR/2008/REC-xml-20081126/>
-
 ## 31 January 2012
 
 - XPath, <http://www.brics.dk/ixwt/xpath.pdf>

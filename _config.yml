@@ -9,13 +9,21 @@ var:
   tags_path : /tags.html
   rss_path: /atom.xml
 
-production_url : http://markuplanguages.courses.thiruvathukal.com
+production_url : http://markup.cs.courseclouds.com/
 title : COMP 336-436
 
-author :
-  name : George K. Thiruvathukal
-  email : gkt@cs.luc.edu
-  github : gkthiruvathukal
-  twitter : \@gkthiruvathukal
+# author :
+#   name : George K. Thiruvathukal
+#   email : gkt@cs.luc.edu
+#   github : gkthiruvathukal
+#   twitter : \@gkthiruvathukal
 
-exclude: .rbenv-version
+author :
+  name : Matt Bone
+  email : mbone@luc.edu
+  #github : gkthiruvathukal
+  #twitter : \@gkthiruvathukal
+
+
+exclude: 
+  - .rbenv-version

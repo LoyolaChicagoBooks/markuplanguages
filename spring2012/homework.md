@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homework
-group: navigation
+#group: navigation
 ---
 
 ## Homework Assignments for Spring 2012
