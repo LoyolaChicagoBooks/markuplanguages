@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Lectures
-#group: navigation
+group: navigation
 ---
+
+
 
 This calendar does not include items that are already on the
 [university calendar](http://www.luc.edu/academics/schedules/spring/academic_calendar.shtml).
