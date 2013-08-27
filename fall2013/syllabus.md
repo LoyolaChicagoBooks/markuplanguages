@@ -3,135 +3,191 @@ layout: page
 title: Syllabus
 group: navigation
 ---
+
+FYI, There might be some minor changes to this before the start 
+of the first class on Wednesday.
   
-This is the near-final draft syllabus for Markup Languages, Spring 2012. It is unlikely to change significantly, save for minor corrections, but I do reserve the right to make changes within the first week of the semester. You can assume that the grading criteria and categories/weights are likely to remain intact.
+# About the Course
 
-About the Course
-================
-test
-This seminar covers Extensible Markup Language (XML) and its applications. At times we will also look at alternatives to XML--a list that includes JSON, YAML, Markdown, etc., which are increasingly competing with XML for various purposes.
+This seminar covers Extensible Markup Language (XML) and its
+applications. At times we will also look at alternatives to XML--a
+list that includes JSON, YAML, Markdown, etc., which are increasingly
+competing with XML for various purposes.
 
-We cover the core XML component frameworks, including DTD, W3 Schema, Relax-NG, DOM, SAX, XSLT, and XQuery. We'll also look at some domain-specific instances, e.g. MathML, Voice XML, etc. We leave the study of the multitude of domain-specific languages to individual and group projects.
+We cover the core XML component frameworks, including DTD, W3 Schema,
+Relax-NG, DOM, SAX, XSLT, and XQuery. We'll also look at some
+domain-specific instances.
 
-We will also take a quick look at network/web services, which make use of markup schemes of one form or another. In enterprise computing, SOAP is a web services framework that makes extensive use of XML to provide a modern retake on RPC. RESTful web services also take advantage of XML and other competing forms of markup (JSON) to support representations (data transfer to and from the web service).
+We will also take a quick look at network/web services, which make use
+of markup schemes of one form or another. In enterprise computing,
+SOAP is a web services framework that makes extensive use of XML to
+provide a modern retake on RPC. RESTful web services also take
+advantage of XML and other competing forms of markup (JSON) to support
+representations (data transfer to and from the web service).
 
-Please note that although HTML will be occasionally used in this course, this course is not about HTML and students may want to acquire an HTML book and study it briefly before taking this course. (We'll cover it during the first week, of course but this is by no means intended to be exhaustive coverage of HTML or its many variants.) This course is also not about making cool web pages but you might find ways to do so as a result. Some topics, however, may peripherally address the integration of XML and other web standards. The course has almost nothing to do with web pages and is focused more on modeling and the "emergent" notion of network services.
+Please note that although HTML will be occasionally used in this
+course, this course is not about HTML and students may want to acquire
+an HTML book and study it briefly before taking this course. (We'll
+cover it during the first week, of course but this is by no means
+intended to be exhaustive coverage of HTML or its many variants).
 
-Because this course is operated as a seminar, it is expected that students come prepared not only to learn but to apply their work in a project setting. This course will place minimal emphasis on structured homework and testing and requires individual and/or team project work. We'll discuss this in the first lecture.
 
-Contact Information and Office Hour
-===================================
+# Contact Information and Office Hours
 
-The preferred method of contact is to use e-mail (gkt@cs.luc.edu). I can also be found almost all day on Tuesdays, especially before class. I would like to request that people who need to meet me either do so before or during class, owing to my extremely long day at campus on Tuesdays, where I also have a morning class at 10 a.m.
+The preferred method of contact is e-mail (mbone@luc.edu). I
+also plan on making extensive use of the forum in sakai. I'll be
+keeping an eye on the forum and responding to posts, but you'll also be
+able to receive help from your fellow students. Keep in mind that
+forum participation will be one consideration for the participation
+component of this course.
 
-You may find me on Google Talk (thiruvathukal@gmail.com). Don't hesitate to interrupt me if you see me there in the *Available* state.
+I'm still working to nail down office hours. At minimum I will be
+available the hour before each class, but I will poll the class and
+figure out what works best since many of you work or come from other
+campuses.
 
-If you need to speak with me any time, you can try my Google Voice number 773.829.4872. Please leave a message and contact information. I also recommend leaving the same at my main e-mail address.
 
-Speaking of e-mail, all e-mails sent to gthiruv@luc.edu and gkt@cs.luc.edu ultimately end up at thiruvathukal@gmail.com. So you need not send to each of them separately.
+# Prerequisites
 
-Prerequisites
-=============
+All students are expected to have taken Computer Science 271 or have
+significant working experience/knowledge with everyday data
+structures, especially lists, trees, and associative structures
+(e.g. hash tables).  If you are in the MA Digital Humanities program,
+you should be taking DH 401 concurrently or have already completed
+this course.
 
-All students are expected to have taken Computer Science 271 or have significant working experience/knowledge with everyday data structures, especially lists, trees, and associative structures (e.g. hash tables).  If you are in the MA Digital Humanities program, you should be taking DH 401 concurrently or have already completed this course.
+Finally, a word of note about programming. You can assume that nearly
+all of your work can be done in XML and its various languages (XSLT
+and XQuery, among others). It is not expected that you are a strong
+programmer but the more knowledge you have thereof, the more fun you
+can have with XML. I encourage you to consider pairing up with another
+student, especially if programming is not your strong suit.
 
-Finally, a word of note about programming. Effective with this offering of the course, you can assume that all of your work can be done in XML and its various languages (XSLT and XQuery, among others). It is not expected that you are a strong programmer but the more knowledge you have thereof, the more fun you can have with XML. I encourage you to consider pairing up with another student, especially if programming is not your strong suit. Teamwork is strongly encouraged and is permitted for all homework assignments and the project itself. (You still need to do the quizzes on your own though!)
 
-Mailing List/Discussion Group
-=============================
+# Mailing List/Discussion Group
 
-We maintain a secret group on Facebook for this course. You should have already received the invitation to join the group. Owing to the nature of spam on the internet, I cannot paste the direct link here. Please contact me if you do not know the URL to reach our group.
+As mentioned above, we will use the sakai forums for group discussion throughout the course.
 
-Required Book
-=============
+
+# Required Book
 
 We will be using the following excellent book:
 
-~~~~~~~~
-Introduction to XML and Web Technologies
-Anders Moller and Michael I. Schwartzbach
-ISBN: 0321269667
-~~~~~~~~
 
-This book can be difficult to obtain. If you are unable to get a copy, you can get by with the lecture notes and my supplements but will probably find yourself wanting a copy at some point. You do not need to own the book from day one.
+> Introduction to XML and Web Technologies
+>
+> Anders Moller and Michael I. Schwartzbach
+>
+> ISBN: 0321269667
 
-Other Recommended Reading
-=========================
 
-To be announced. You may also find other XML books in the Safari book collection at the Loyola University Chicago Libraries.
+This book can be difficult to obtain. If you are unable to get a copy,
+you can get by with the lecture notes and my supplements but will
+probably find yourself wanting a copy at some point. You do not need
+to own the book from day one.
 
-Software
-========
 
-OxygenXML Editor: We are grateful to have received a donation from the company that makes OxygenXML software to allow for classroom and individual licenses. Details to follow. You can start by installing the 30-day trial edition, which is fully functional.
+# Software
+
+OxygenXML Editor: We are grateful to have received a donation from the company that makes OxygenXML software to allow for classroom and individual licenses. Details will be posted on sakai.
 
 Please consider purchasing a personal or business license for OxygenXML in the future, if you find their software to be useful.
 
-For the SAX/DOM programming assignment, you will need to develop in an approved environment, TBD. Eclipse and Java is the preferred environment; however, any other object-oriented or functional language with support for XML may be used. (C may also be used with Makefiles but must work on Linux for testing purposes.) Most of the "programming" in this class will be done in XML itself.
 
-Course Breakdown
-================
+# Course Breakdown
 
-This is subject to revision through the first week of classes only but the percentages are unlikely to change significantly.
-
-+-------------------------+----------+
-|Short Assignments/Labs   |15%       |
-+-------------------------+----------+
-|Participation            |15%       |
-+-------------------------+----------+
-|Quizzes                  |20%       |
-+-------------------------+----------+
-|Project                  |50%       |
-+-------------------------+----------+
-
+* Homework & Project: 65%
+* Quizzes: 25%
+* Participation: 10%
 
 The following is an explanation of the course breakdown:
 
-- **Short Assignments/Labs** will involve working with XML and/or other programming languages and sometimes design tools (e.g. schema editors). This semester, all assignments may be done as a group of up to 3 people. In many cases, this might end up being your group for the semester project as well. Homework will be graded by a check-off process, meaning it is recorded as pass/fail. There will also be an expectation of weekly presentations about the homework, both in terms of strategies for solving the assignment and actual solutions.
+- **Homework & Project** Homework will involve working with XML and/or
+    other programming languages and sometimes design tools
+    (e.g. schema editors).  Homework should be done individually
+    unless otherwise noted. The project is obviously an important
+    component of this course, and more details will come as the course
+    progresses. You should start thinking of potential ideas for
+    projects and begin making acquaintances with others with the hope
+    of forming a small team. Groups of 3 or fewer may propose a
+    project idea at any time. Stay tuned for details.
 
-- **Quizzes** will be used to determine whether you are keeping abreast of the lecture, reading, and assignments. While only 20% of your grade is at stake for this category, you can expect quizzes to be challenging if you are not staying on top of everything that is assigned.
+- **Quizzes** will be used to determine whether you are keeping abreast of the lecture, reading, and assignments. 
 
-- **Participation** will be determined based on your involvement in the class in concrete ways. For me, there are multiple ways I can measure your participation. The first is to be active in in-class discussions and make occasional presentations in class. Ideally, I expect every student to speak at least 1-3 times a semester, especially when it comes to the discussion of assignments. The second is to be active in the class discussion group. I'm particularly fond of participation that sheds new insight on material that we might not be able to cover in class and postings that are aimed at helping others.
+- **Participation** will be determined based on your involvement in
+    the class in concrete ways. For me, there are multiple ways I can
+    measure your participation. The first is to be active in in-class
+    discussions and make occasional presentations in class. Ideally, I
+    expect every student to speak at least 1-3 times a semester,
+    especially when it comes to the discussion of assignments. The
+    second is to be active in the class discussion group. I'm
+    particularly fond of participation that sheds new insight on
+    material that we might not be able to cover in class and postings
+    that are aimed at helping others.
 
-- **The Project** is obviously an important component of this course. I will be unveiling more details about this during the 2nd week of classes. You should start thinking of potential ideas for projects and begin making acquaintances with others with the hope of forming a small team. Groups of 3 or fewer may propose a project idea at any time. Stay tuned for details.
 
-Submitting Homework and Projects
-================================
+# Submitting Homework and Projects
 
-We will be using publicly available solutions for submitting XML and other programming materials, including your project materials. So you will not submit your code on Blackboard, which is not suitable for submitting programming assignments in my experience.
+Homework submissions will be handled via sakai. While this is not the
+most ideal way of doing things, it'll give us minimal overhead.
 
-For homework assignments, you are encouraged to use a solution that allows you to keep your homework solution completely private. BitBucket is an excellent solution for this and allows you not only to keep your source code on the site but also additional material, e.g. documentation (wiki pages), etc., which normally accompanies a strong homework and/or project submission.
+For homework assignments and all of your personal work, I encourage
+you to use version control with private repositories.  BitBucket is an
+excellent solution for this and allows you not only to keep your
+source code on the site but also additional material,
+e.g. documentation (wiki pages), etc., which normally accompanies a
+strong homework and/or project submission.
 
-For projects, you may use a public-hosting solution, especially if you are considering the idea of working according to free/open source principles. BitBucket is also a strong solution for publicly-hosted projects. We also tend to be particularly fond of Google Code but will not limit you to this way of thinking/expression. Regardless of what solution you choose, every project is expected to maintain a source code repository and have a public presence of one form or another and share it with the professor (me). Consider using Google Sites for a basic web presence as well.
+For projects, you may use a public-hosting solution, especially if you
+are considering the idea of working according to free/open source
+principles. BitBucket is also a strong solution for publicly-hosted
+projects. We also tend to be particularly fond of Google Code but will
+not limit you to this way of thinking/expression. Regardless of what
+solution you choose, every project is expected to maintain a source
+code repository and have a public presence of one form or another.
 
-We will be discussing this issue in the first week of class. There is a possibility that we'll have to tweak this section of the syllabus a bit to find the "sweet spot" so to speak.
 
-Attendance Policy
-=================
+# Attendance Policy
 
 I do not take attendance in class.
 
-Attendance, however, is strongly encouraged. If you plan to miss class, it is ok to let me know but, more importantly, please make sure you speak with at least one other person in class to find out anything you might have missed. Significant absences from class may hurt your participation grade.
+Attendance, however, is strongly encouraged. If you plan to miss
+class, it is ok to let me know but, more importantly, please make sure
+you speak with at least one other person in class to find out anything
+you might have missed. Significant absences from class may hurt your
+participation grade.
 
-Late Work Policy
-================
 
-Beginning this term, late work will be accepted but at a slight penalty for each week of lateness. This penalty is best illustrated by example (A becomes A-, A- becomes B+, B+ becomes B, etc.) Effectively, it's a one-stop penalty. The assignment will be graded as if you had completed it on time, after which the deduction will be applied.
+# Late Work Policy
 
-Late work will not be accepted for assignment N once assignment N+1's due date has arrived. This means, in practice, that a zero will be recorded for this assignment.
+Late work will be accepted but at a slight penalty. Late work will be
+accepted but at a slight penalty for each week of lateness. The
+penalty will be 10% per week.
 
-Quiz/Exam Attendance Policy
-===========================
+Late work will not be accepted for assignment N once assignment N+1's
+due date has arrived. This means, in practice, that a zero will be
+recorded for this assignment.
 
-Quiz absences require advance notification and/or appropriate documentation (e.g. doctor's note or documentation from Wellness Center). Failure to comply with this policy results in a zero on the given quiz.
 
-Academic Integrity Policy
-=========================
+# Quiz/Exam Attendance Policy
 
-See the university web sites in the College of Arts and Sciences and Graduate School. Any infringement on these policies will result (possibly) in an F for the course and a report being submitted to the relevant dean's office.
+Quiz absences require advance notification and/or appropriate
+documentation (e.g. doctor's note or documentation from Wellness
+Center). Failure to comply with this policy results in a zero on the
+given quiz.
 
-Schedule and Lecture Notes
-==========================
 
-All materials can be found at <http:markup.etl.luc.edu>. We will largely follow the material in the book but will supplement with other interesting professional and research topics. This is, after all, a seminar, with the hope that you will be able to *apply* the material to real-world situations.
+# Academic Integrity Policy
+
+See the university web sites in the College of Arts and Sciences and
+Graduate School. Any infringement on these policies will result
+(possibly) in an F for the course and a report being submitted to the
+relevant dean's office.
+
+
+# Schedule and Lecture Notes
+
+All materials can be found on this website and on sakai.. We will
+largely follow the material in the book but will supplement with other
+interesting professional and research topics.
 
