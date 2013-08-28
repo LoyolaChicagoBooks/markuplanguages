@@ -20,7 +20,7 @@ title: Essential HTML and CSS
 * [markdown](http://daringfireball.net/projects/markdown/syntax)
 * [pelican](http://docs.getpelican.com/en/3.2/)
 * [jekyll](http://jekyllrb.com/)
-
+* [xmp sidecar files](http://en.wikipedia.org/wiki/Extensible_Metadata_Platform)
 
 ## Unicode
 
