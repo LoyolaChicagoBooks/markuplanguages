@@ -3,9 +3,6 @@ layout: page
 title: Syllabus
 group: navigation
 ---
-
-FYI, There might be some minor changes to this before the start 
-of the first class on Wednesday.
   
 # About the Course
 
@@ -112,7 +109,7 @@ The following is an explanation of the course breakdown:
     of forming a small team. Groups of 3 or fewer may propose a
     project idea at any time. Stay tuned for details.
 
-- **Quizzes** will be used to determine whether you are keeping abreast of the lecture, reading, and assignments. 
+- **Quizzes** will be used to determine whether you are keeping abreast of the lecture, reading, and assignments.  We will not meet for the final exam session.
 
 - **Participation** will be determined based on your involvement in
     the class in concrete ways. For me, there are multiple ways I can
