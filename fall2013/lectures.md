@@ -11,4 +11,5 @@ Please check this calendar and sakai for any other important dates (e.g. drop
 dates, quiz dates, presentation dates etc.)
 
 * August 28, 2013: [Essential HTML and CSS](essential_html.html)
-* September 4, 2013 [Introduction to XML](xml_introduction.html)
+* September 4, 2013: [Introduction to XML](xml_introduction.html)
+* September 11, 2013: [XPath](xpath.html)
