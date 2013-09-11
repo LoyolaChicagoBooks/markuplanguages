@@ -5,6 +5,7 @@ title: Introduction to XML
 
 # Basics
 * [Book Slides](http://www.brics.dk/ixwt/xml.pdf)
+* Suggested Reading: Chapter 2
 * IPython Notebook Examples: ([raw](http://bitbucket.org/thatmattbone/markup-examples/raw/7c56f2862712e96624237ec376a1640b328a2850/introduction_to_xml.ipynb)) ([read-only](http://nbviewer.ipython.org/urls/bitbucket.org/thatmattbone/markup-examples/raw/7c56f2862712e96624237ec376a1640b328a2850/introduction_to_xml.ipynb))
 
 # XML Resources
