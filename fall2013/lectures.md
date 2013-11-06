@@ -18,10 +18,10 @@ dates, quiz dates, presentation dates etc.)
 * October 2, 2013: [XML Programming](xml_programming.html)
 * October 9, 2013: [XML Programming](xml_programming.html) (hw3 due Oct 14 before midnight) 
 * October 16, 2013: [XSLT](xslt.html) and Project Interviews
-* October 23, 2013: [XQuery](xquery.html) and Quiz 2
-* October 30, 2013: [Alternatives for Authoring](alternatives.html)
-* November 6, 2013: [Databases and Search](databases.html) (hw4 due Nov 8 before midnight)
-* November 13, 2013: [XML Applications and Case Studies](applications.html)
+* October 23, 2013: Quiz 2
+* October 30, 2013: [XQuery](xquery.html)
+* November 6, 2013: [Alternatives for Authoring](alternatives.html)
+* November 13, 2013: [Databases and Search](databases.html) (hw4 due Nov 8 before midnight) 
 * November 20, 2013: [XML Applications and Case Studies](applications.html) Quiz 3
 * November 27, 2013: Thanksgiving Break, No Class
 * December 4, 2013: Project Presentations, Last Class
