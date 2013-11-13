@@ -21,7 +21,7 @@ dates, quiz dates, presentation dates etc.)
 * October 23, 2013: Quiz 2
 * October 30, 2013: [XQuery](xquery.html)
 * November 6, 2013: [Alternatives for Authoring](alternatives.html)
-* November 13, 2013: [Databases and Search](databases.html) (hw4 due Nov 8 before midnight) 
-* November 20, 2013: [XML Applications and Case Studies](applications.html) Quiz 3
+* November 13, 2013: [Databases and Search](databases.html)
+* November 20, 2013: Quiz 3
 * November 27, 2013: Thanksgiving Break, No Class
 * December 4, 2013: Project Presentations, Last Class
