@@ -3,6 +3,7 @@ layout: page
 title: Home
 ---
 
+testing one two three...
 
 Welcome to COMP 336/436: Markup Languages at Loyola University Chicago
 
