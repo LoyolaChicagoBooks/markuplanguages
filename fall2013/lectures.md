@@ -12,7 +12,7 @@ dates, quiz dates, presentation dates etc.)
 
 * August 27, 2014: [Essential HTML and CSS](essential_html.html) (hw1 due Aug 31 before midnight)
 * September 3, 2014: [Introduction to XML](xml_introduction.html)
-* September 10, 2014: [XPath](xpath.html)
+* September 10, 2014: [JSON and XPath](xpath.html)
 * September 17, 2014: [Schema Languages](schema_languages.html) <!-- (hw2 due Sept 20 before midnight) -->
 * September 24, 2014: [Schema Languages](schema_languages.html) and Quiz 1
 * October 1, 2014: [XML Programming](xml_programming.html)
