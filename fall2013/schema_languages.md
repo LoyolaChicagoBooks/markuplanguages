@@ -4,14 +4,15 @@ title: Schema Languages
 ---
 When we write a language of our own, whether it be a programming language we're sketching out on a piece of paper, or modeling some data with markup, we have a certain shape in mind. We can formalize this this shape and explicitly define the syntax so documents (instance documents) can be validated against the shape (schema). In programming languages this is often done with [BNF](http://en.wikipedia.org/wiki/Backus%E2%80%93Naur_Form) or [EBNF](http://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_Form).
 
-As an example, let's checkout Python's grammar:
+Let's checkout some examples:
 
 * <https://docs.python.org/3/reference/grammar.html>
+* <http://linux.die.net/man/5/sudoers>
 
 If you are familiar with regular expressions, some of this may look familiar:
 
 * <https://docs.python.org/3.4/library/re.html>
-
+* <https://docs.djangoproject.com/en/1.7/topics/http/urls/>
 
 Some DTD resources:
 
