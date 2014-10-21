@@ -18,7 +18,7 @@ dates, quiz dates, presentation dates etc.)
 * October 1, 2014: [XML Programming](xml_programming.html)
 * October 8, 2014: [XML Programming](xml_programming.html) <!-- (hw3 due Oct 14 before midnight) -->
 * October 15, 2014: [XSLT](xslt.html) and Project Interviews
-* October 22, 2014: [XQuery](xquery.html)
+* October 22, 2014: [XQuery and Command Line Tools](xquery.html)
 * October 29, 2014: Quiz 2
 * November 5, 2014: [Alternatives for Authoring](alternatives.html)
 * November 12, 2014: [Databases and Search](databases.html)
