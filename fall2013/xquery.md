@@ -31,10 +31,10 @@ xmllint courses.xml --shell
 
 
 # validate a document with an internal dtd
-
+xmllint notes_internal_dtd.xml --valid
 
 # validate a document with an external dtd
-
+xmllint notes.xml --valid
 
 # run some xpath and output the results
 xmllint courses.xml --xpath //course/name --pretty 1
